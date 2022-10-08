@@ -1,2 +1,2 @@
 # ParabankMiniProject
-testing simulated online banking website
+Testing simulated online banking website.
